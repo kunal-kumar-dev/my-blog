@@ -7,7 +7,6 @@ The project focuses on clean UI, proper component structure, and practical front
 
 ---
 
-------------------------------------------------------------------------
 
 ## 🌐 Live Demo
 
