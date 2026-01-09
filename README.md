@@ -7,6 +7,14 @@ The project focuses on clean UI, proper component structure, and practical front
 
 ---
 
+------------------------------------------------------------------------
+
+## 🌐 Live Demo
+
+🔗 https://my-blog-new.netlify.app/
+
+------------------------------------------------------------------------
+
 ## ✨ Features
 
 ### 🎨 UI & Design
