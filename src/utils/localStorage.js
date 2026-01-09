@@ -6,8 +6,8 @@ const INITIAL_DATA = [
     excerpt: "Why React is still the king of frontend libraries...",
     content: "React has evolved significantly. With React 19 and beyond...",
     category: "Tech",
-    author: "Alex Dev",
-    date: "2025-10-24",
+    author: "Kunal",
+    date: "2026-02-09",
     image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80"
   },
   {
@@ -16,8 +16,8 @@ const INITIAL_DATA = [
     excerpt: "How decluttering your space declutters your mind.",
     content: "Minimalism isn't just about having less stuff...",
     category: "Lifestyle",
-    author: "Sarah J",
-    date: "2025-11-02",
+    author: "Badal",
+    date: "2026-01-08",
     image: "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?w=800&q=80"
   }
 ];
