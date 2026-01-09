@@ -42,7 +42,7 @@ The project focuses on clean UI, proper component structure, and practical front
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/my-blog.git
+git clone https://github.com/kunal-kumar-dev/my-blog.git
 cd my-blog
 ```
 
